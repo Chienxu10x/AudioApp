@@ -1,4 +1,4 @@
-package com.example.view
+package com.example.audioapp.view
 
 import android.content.pm.PackageManager
 import android.os.Build

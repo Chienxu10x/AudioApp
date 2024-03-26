@@ -1,4 +1,4 @@
-package com.example.view
+package com.example.audioapp.view
 
 import com.example.audioapp.model.AudioFileInfo
 

@@ -1,8 +1,8 @@
-package com.example.presenter
+package com.example.audioapp.presenter
 
 import android.content.Context
 import com.example.audioapp.model.AudioHelper
-import com.example.view.AudioView
+import com.example.audioapp.view.AudioView
 import kotlinx.coroutines.DelicateCoroutinesApi
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.GlobalScope

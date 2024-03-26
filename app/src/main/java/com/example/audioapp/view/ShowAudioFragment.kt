@@ -1,4 +1,4 @@
-package com.example.view
+package com.example.audioapp.view
 
 import android.app.Activity
 import android.content.pm.PackageManager
@@ -20,13 +20,13 @@ import androidx.core.content.ContextCompat
 import androidx.fragment.app.Fragment
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.example.PermissionsUtils
-import com.example.adapter.AudioAdapter
+import com.example.audioapp.adapter.AudioAdapter
 import com.example.audioapp.R
 import com.example.audioapp.databinding.FragmentShowAudioBinding
 import com.example.audioapp.model.AudioFileInfo
-import com.example.listener.AudioClick
-import com.example.presenter.AudioPresenter
-import com.example.recyclerview.RecyclerItemClickListener
+import com.example.audioapp.listener.AudioClick
+import com.example.audioapp.presenter.AudioPresenter
+import com.example.audioapp.recyclerview.RecyclerItemClickListener
 import java.util.jar.Manifest
 
 

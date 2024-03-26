@@ -1,4 +1,4 @@
-package com.example.adapter
+package com.example.audioapp.adapter
 
 import android.content.Context
 import android.view.LayoutInflater
@@ -10,7 +10,7 @@ import androidx.recyclerview.widget.RecyclerView
 import androidx.recyclerview.widget.RecyclerView.ViewHolder
 import com.example.audioapp.R
 import com.example.audioapp.model.AudioFileInfo
-import com.example.listener.AudioClick
+import com.example.audioapp.listener.AudioClick
 import java.text.SimpleDateFormat
 import java.util.Date
 import java.util.Locale
